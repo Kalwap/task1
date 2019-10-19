@@ -1,0 +1,10 @@
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.csproj.CoreCompileInputs.cache
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.AssemblyInfoInputs.cache
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.AssemblyInfo.cs
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\bin\Debug\netstandard2.0\ClassLibtask1.deps.json
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\bin\Debug\netstandard2.0\ClassLibtask1.dll
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\bin\Debug\netstandard2.0\ClassLibtask1.pdb
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\bin\Debug\netstandard2.0\ClassLibtask1.xml
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.dll
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.pdb
+C:\Users\amoniacc\source\repos\ClassLibtask1\ClassLibtask1\obj\Debug\netstandard2.0\ClassLibtask1.csprojAssemblyReference.cache

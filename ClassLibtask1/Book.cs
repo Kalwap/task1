@@ -5,7 +5,7 @@ using System.Text;
 namespace ClassLibtask1
 {
     
-    {
+    
         public class Book
         {
             //attribiutes
@@ -106,5 +106,5 @@ namespace ClassLibtask1
 
 
         }
-    }
+    
 }
